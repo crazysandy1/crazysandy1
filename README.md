@@ -23,21 +23,12 @@ I thrive on crafting responsive web applications, experimenting with simulations
 
 
 
-### 💼 Projects
-
-Here's a snapshot of some of my best projects:
-
-- [Project 1](link1): A personal website showcasing my portfolio and skills.
-- [Project 2](link2): A contact form demo with a clean and responsive design.
-- [Project 3](link3): Simulation application for testing purposes.
-- [Project 4](link4): Pharmacy version for testing purposes.
-
-Feel free to check out my repositories for additional projects and experimentations.
+Feel free to check out my repositories for  projects and experimentations.
 
 ### 📞 Contact Information
 
 - 📧 Email: [sandeepjs1561@gmail.com](mailto:sandeepjs1561@gmail.com)
-- 🌐 Personal Website: [buildersandy.me](https://buildersandy.me/)
+- 🌐 Personal Website: [buildersandy.tech](https://buildersandy.tech/)
 
 Let's connect and discuss exciting opportunities or collaborations!
 

@@ -136,18 +136,18 @@ Here are some of the projects I've worked on across AI-powered applications, ful
       <p><a href="https://github.com/crazysandy1/organictrace-web">Frontend</a> · <a href="https://github.com/crazysandy1/organictrace-api">Backend API</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/crazysandy1/5thsem-Ml-project">Hybrid Weighted Adaptive K-Means</a></h3>
+      <h3>📊 <a href="https://github.com/crazysandy1/weighted-adaptive-kmeans">Hybrid Weighted Adaptive K-Means</a></h3>
       <p>A machine-learning project focused on customer segmentation using weighted feature distances and adaptive centroid merging. The notebook explores customer clusters, visualizes segment characteristics, and compares the approach with standard K-Means.</p>
       <p><strong>Tech:</strong> Python, Jupyter Notebook, NumPy, Pandas, scikit-learn, Matplotlib</p>
-      <p><a href="https://github.com/crazysandy1/5thsem-Ml-project">Explore notebook</a></p>
+      <p><a href="https://github.com/crazysandy1/weighted-adaptive-kmeans">Explore notebook</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/crazysandy1/knn_parallel_computation">Parallel K-Nearest Neighbors</a></h3>
-      <p>An implementation exploring parallel computation for KNN distance calculations. It focuses on configurable model parameters and benchmarking sequential versus parallel execution to understand performance trade-offs.</p>
-      <p><strong>Tech:</strong> Python, Jupyter Notebook, Machine Learning, Parallel Computing</p>
-      <p><a href="https://github.com/crazysandy1/knn_parallel_computation">Explore project</a></p>
+      <h3>⚡ <a href="https://github.com/crazysandy1/cuda-kmeans-benchmark">CUDA K-means Benchmark</a></h3>
+      <p>K-means implemented in serial C and in CUDA, benchmarked across dataset sizes on a Tesla T4. The GPU version is about 14-18x faster than the serial CPU version from 100k to 500k points, and slower on tiny inputs where launch overhead dominates.</p>
+      <p><strong>Tech:</strong> CUDA, C, Python, Google Colab</p>
+      <p><a href="https://github.com/crazysandy1/cuda-kmeans-benchmark">Explore project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏭 <a href="https://github.com/crazysandy1/injection-moulding-fusion-qc">FusionQC: Injection Moulding Defect Detection</a></h3>

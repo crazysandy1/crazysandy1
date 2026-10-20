@@ -111,15 +111,54 @@ Technologies I've worked with or explored across projects and learning.
 
 ## 🚀 Featured Work
 
-I use projects to explore ideas, strengthen my engineering skills, and build solutions that go beyond tutorials.
+Here are some of the projects I've worked on across AI-powered applications, full-stack development, machine learning, and systems computing.
 
-| Project | What it explores |
-|---|---|
-| [Disha](https://github.com/crazysandy1) | Web development and application workflows using Flask, JavaScript, and SQLite. |
-| [SandeepOS](https://github.com/crazysandy1) | An exam-tracking application concept focused on organization and productivity. |
-| [Explore all repositories →](https://github.com/crazysandy1?tab=repositories) | More projects, experiments, and development work. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/crazysandy1/samsung-prism-banking">Samsung PRISM Banking</a></h3>
+      <p>An AI-assisted mobile banking prototype developed for the Samsung PRISM GenAI Hackathon 2025. The project explores multi-agent banking assistance, voice interactions, multilingual support, and behavioral-biometric authentication.</p>
+      <p><strong>Tech:</strong> Flutter, Dart, Gemini, Firebase</p>
+      <p><a href="https://github.com/crazysandy1/samsung-prism-banking">Repository</a> · <a href="https://drive.google.com/drive/folders/1MeBVhFFFMzZnZDY-X2JgWV7BSYOcYDeG?usp=drive_link">Demo</a> · <a href="https://drive.google.com/drive/folders/1m30x0BiPaqbwMMpShEZiptMdCdLyRC08?usp=drive_link">Presentation</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/crazysandy1/credential-kavach">Credential Kavach</a></h3>
+      <p>An academic credential verification prototype built for Smart India Hackathon 2025. It combines OCR-based document extraction, institutional verification workflows, audit logging, and IOTA blockchain anchoring to help detect document tampering.</p>
+      <p><strong>Tech:</strong> React, Flask, Django REST Framework, PaddleOCR, IOTA, Docker</p>
+      <p><a href="https://github.com/crazysandy1/credential-kavach">Explore repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/crazysandy1/organictrace-web">OrganicTrace</a></h3>
+      <p>A farm-to-table traceability platform designed to track product batches across the supply chain. It includes QR-based tracking, role-based dashboards, supply-chain event histories, and an optional blockchain layer for product-record integrity.</p>
+      <p><strong>Tech:</strong> React, Vite, Node.js, Express, PostgreSQL, Solidity, Polygon</p>
+      <p><a href="https://github.com/crazysandy1/organictrace-web">Frontend</a> · <a href="https://github.com/crazysandy1/organictrace-api">Backend API</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/crazysandy1/5thsem-Ml-project">Hybrid Weighted Adaptive K-Means</a></h3>
+      <p>A machine-learning project focused on customer segmentation using weighted feature distances and adaptive centroid merging. The notebook explores customer clusters, visualizes segment characteristics, and compares the approach with standard K-Means.</p>
+      <p><strong>Tech:</strong> Python, Jupyter Notebook, NumPy, Pandas, scikit-learn, Matplotlib</p>
+      <p><a href="https://github.com/crazysandy1/5thsem-Ml-project">Explore notebook</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/crazysandy1/knn_parallel_computation">Parallel K-Nearest Neighbors</a></h3>
+      <p>An implementation exploring parallel computation for KNN distance calculations. It focuses on configurable model parameters and benchmarking sequential versus parallel execution to understand performance trade-offs.</p>
+      <p><strong>Tech:</strong> Python, Jupyter Notebook, Machine Learning, Parallel Computing</p>
+      <p><a href="https://github.com/crazysandy1/knn_parallel_computation">Explore project</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧍 <a href="https://github.com/crazysandy1/posture-recogintion">Posture Recognition</a></h3>
+      <p>A computer-vision project exploring posture recognition using Python. Visit the repository for the implementation, dependencies, and current project details.</p>
+      <p><strong>Tech:</strong> Python, Computer Vision</p>
+      <p><a href="https://github.com/crazysandy1/posture-recogintion">Explore project</a></p>
+    </td>
+  </tr>
+</table>
 
-*Project descriptions are brief summaries; visit the repositories for implementation details and current status.*
+**More projects:** [Browse all my repositories →](https://github.com/crazysandy1?tab=repositories)
 
 ---
 
@@ -154,7 +193,7 @@ I'm still learning, experimenting, and building. This profile is a snapshot of t
 Have an interesting project, an engineering opportunity, or an idea worth exploring? Let's connect.
 
 <p>
-  <a href="https://buildersandy.tech/"><img src="https://img.shields.io/badge/Website-Buildersandy.tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://buildersandyy.tech/"><img src="https://img.shields.io/badge/Website-Buildersandyy.tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.buildersandyy.tech/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume PDF" /></a>
   <a href="https://www.linkedin.com/in/sandeepconnect"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>

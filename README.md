@@ -150,10 +150,10 @@ Here are some of the projects I've worked on across AI-powered applications, ful
       <p><a href="https://github.com/crazysandy1/knn_parallel_computation">Explore project</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧍 <a href="https://github.com/crazysandy1/posture-recogintion">Posture Recognition</a></h3>
-      <p>A computer-vision project exploring posture recognition using Python. Visit the repository for the implementation, dependencies, and current project details.</p>
-      <p><strong>Tech:</strong> Python, Computer Vision</p>
-      <p><a href="https://github.com/crazysandy1/posture-recogintion">Explore project</a></p>
+      <h3>🏭 <a href="https://github.com/crazysandy1/injection-moulding-fusion-qc">FusionQC: Injection Moulding Defect Detection</a></h3>
+      <p>A multimodal deep-learning system that fuses thermal images, process-curve time series, machine data and warpage images with a cross-modal transformer to predict moulding defects. It adds domain-adversarial training, Grad-CAM explanations, a counterfactual setpoint recommender, and drift and sensor-fault monitoring. Built with teammates at MSRIT.</p>
+      <p><strong>Tech:</strong> PyTorch, timm, Transformers, TCN, DANN, scikit-learn</p>
+      <p><a href="https://github.com/crazysandy1/injection-moulding-fusion-qc">Explore repository</a> · MIT licensed, open to contributions</p>
     </td>
   </tr>
 </table>
